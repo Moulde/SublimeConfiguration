@@ -1,0 +1,26 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"A File Icon",
+		"AutoHotkey",
+		"Base Encoder",
+		"Boxy Theme",
+		"Indent XML",
+		"Package Control",
+		"Path Tools",
+		"PowerShell",
+		"Pretty JSON",
+		"SideBarEnhancements",
+		"StringEncode",
+		"SublimeLinter",
+		"SublimeLinter-gjslint",
+		"SublimeLinter-jshint",
+		"Text Pastry",
+		"View In Browser",
+		"xml2json"
+	]
+}
